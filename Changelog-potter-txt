@@ -1,0 +1,136 @@
+=======================
+     06-13-2018
+=======================
+
+
+   * device/motorola/potter/
+8b1f34e Revert "potter: Use GoogleCameraMod instead of Snap"
+
+   * frameworks/base/
+3d56be9 [2/2] SettingsLib: switch style to removed left padding
+45b08b5 [1/2] SettingsLib: allow to remove forced start margin
+
+   * packages/apps/Settings/
+c56f2ab [1/2] Settings: change dimen to removed left padding
+c23ce7b [2/2] Settings: allow to remove forced start margin
+
+=======================
+     06-12-2018
+=======================
+
+
+=======================
+     06-11-2018
+=======================
+
+
+   * device/motorola/potter/
+76058fb potter: remove spacing
+c9c991a potter: update dependencies
+3650d9d potter: Update prebuilt GoogleCamera
+943bd28 potter: Use GoogleCameraMod instead of Snap
+63e4de7 potter: update init.*.rc from stock
+6c3b2ec potter: clean-up camera shims
+39fb714 potter: address camera denials
+842155c potter: add some HALs required by camera
+6b39353 potter: sync media configs with stock
+dcaa4bc potter: build kernel with clang
+ceba621 Revert "potter: add missing profiles for slow motion"
+3d1c8d5 potter: Remove hal1 packagelist
+6335ddd potter: sync some props with stock
+25f13b1 potter: sync mixer_paths with stock
+ed295ae potter: MotoActions: Listen also for ACTION_PRE_BOOT_COMPLETED
+531464a Revert "potter: update KeyHandler for api change"
+7381e3e Update MotoActions
+248d69b potter: Address some denials
+
+   * frameworks/base/
+9e652db Revert "base: Fix header images padding on content padding"
+
+   * packages/apps/LiquidOTA/
+6985416 LiquidOTA: liquid ota update notification icon
+
+=======================
+     06-10-2018
+=======================
+
+
+   * hardware/lineage/interfaces/
+18f4e8d livedisplay: Don't use singletons for the stack
+f66d76e livedisplay: Correct macro copypasta
+
+   * hardware/qcom/power/
+a67c703 power: Remove unused list utils
+0a53ddc power: Remove interaction_with_handle
+f9d6801 power: Remove unused ondemand related functions
+7fc57d1 power: Remove support for msm-dcvs governor
+
+=======================
+     06-09-2018
+=======================
+
+
+   * hardware/qcom/power/
+a966c4c power: Remove powerhintparser
+d43c2c3 power: msm8974: Build with with BOARD_VNDK_VERSION
+
+   * packages/apps/Jelly/
+6432e80 Jelly: Add support for multiple windows
+
+=======================
+     06-08-2018
+=======================
+
+
+   * hardware/lineage/interfaces/
+ac865c8 livedisplay: Remove unused using statements
+412bc94 livedisplay: Move LegacyMMController inclusion to impl
+
+   * packages/apps/LiquidOTA/
+c0fbe1d Fix strings
+
+=======================
+     06-07-2018
+=======================
+
+
+   * packages/apps/LiquidOTA/
+6c8486f Update Italian translation
+074e4e1 LiquidOTA: initial liquid remix refactor
+
+=======================
+     06-06-2018
+=======================
+
+
+   * build/make/
+9d6ee65 Merge tag 'android-8.1.0_r30' into oc-mr2
+
+   * frameworks/av/
+e07fc27 Merge tag 'android-8.1.0_r30' into oc-mr2
+
+   * frameworks/base/
+b9bc4c0 Merge tag 'android-8.1.0_r30' into oc-mr2
+
+   * frameworks/opt/telephony/
+4284e55 Merge tag 'android-8.1.0_r30' into oc-mr2
+
+   * hardware/interfaces/
+027a33d Merge tag 'android-8.1.0_r30' into oc-mr2
+
+   * packages/providers/MediaProvider/
+3969a01 Merge tag 'android-8.1.0_r30' into oc-mr2
+
+=======================
+     06-05-2018
+=======================
+
+
+=======================
+     06-04-2018
+=======================
+
+
+   * device/motorola/potter/
+85a90dc potter: use pixel build fingerprint for safetynet
+

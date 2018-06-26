@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <kenzo>
-            <Filename>9.1.1-20180613-OFFICIAL-kenzo.zip</Filename>
+            <Filename>9.1.2-20180625-OFFICIAL-kenzo.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Kenzo">https://androidfilehost.com/?fid=890278863836291756</RomUrl>
+                description="Download latest build for Kenzo">https://www.androidfilehost.com/?fid=746163614322276097</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"

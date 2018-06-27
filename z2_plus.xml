@@ -7,7 +7,7 @@ xsi:noNamespaceSchemaLocation="ota.xsd">
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Z2 Plus">https://androidfilehost.com/?fid=13356325061477269898</RomUrl>
+                description="Download latest build for Z2 Plus">https://androidfilehost.com/?fid=674106145207498079</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"

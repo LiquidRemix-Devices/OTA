@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <kenzo>
-            <Filename>9.1.2-20180625-OFFICIAL-kenzo.zip</Filename>
+            <Filename>9.1.2-20180625-OFFICIAL-kenzo</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"

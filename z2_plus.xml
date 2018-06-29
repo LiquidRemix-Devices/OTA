@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <z2_plus>
-            <Filename>9.1.2-20180616-OFFICIAL-z2_plus</Filename>
+            <Filename>liquid_remix-9.1.2-20180628-OFFICIAL-z2_plus.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Z2 Plus">https://www.androidfilehost.com/?fid=11050483647474828155</RomUrl>
+                description="Download latest build for Z2 Plus">https://androidfilehost.com/?fid=11050483647474828155</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
